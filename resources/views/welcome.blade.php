@@ -55,7 +55,7 @@
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim rerum explicabo nemo inventore facere earum illum. Tempore quo fugiat doloribus!
                 </p>
                 <div class="flex mt-6">
-                    <a href="#" class="px-6 py-2 bg-teal-900 text-white font-normal text-sm rounded-md shadow-md">Bergabung bersama kami</a>
+                    <a href="#" class="px-6 py-2 bg-teal-900 text-white font-normal text-sm rounded-md shadow-md">Lets Join Us</a>
                 </div>
             </div>
 
